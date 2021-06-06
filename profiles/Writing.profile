@@ -12,7 +12,6 @@
     "translate_tabs_to_spaces": true,
     "block_caret": true,
 
-    // Writing (can be commented out when coding)
     "draw_centered": true,
     "word_wrap": true,
     "wrap_width": 80,
