@@ -13,6 +13,7 @@
     "block_caret": true,
     "folder_exclude_patterns": [".svn", "._d", "_site"],
 
+    // Writing
     "draw_centered": true,
     "word_wrap": true,
     "wrap_width": 80,
