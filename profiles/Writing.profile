@@ -11,6 +11,7 @@
     "spell_check":true,
     "translate_tabs_to_spaces": true,
     "block_caret": true,
+    "folder_exclude_patterns": [".svn", "._d", "_site"],
 
     "draw_centered": true,
     "word_wrap": true,
