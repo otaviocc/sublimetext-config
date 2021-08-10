@@ -1,13 +1,13 @@
 {
     // Common
 
-    "color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
+    // "color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
     "font_size": 14,
     "ignored_packages":
     [
         "Vintage",
     ],
-    "theme": "Monokai Pro (Filter Spectrum).sublime-theme",
+    // "theme": "Monokai Pro (Filter Spectrum).sublime-theme",
     "auto_complete": true,
     "spell_check":true,
     "translate_tabs_to_spaces": true,
@@ -35,4 +35,6 @@
     // "gutter": false,
     // "dark_theme": "Default Dark.sublime-theme",
     // "light_theme": "Adaptive.sublime-theme",
+    "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+    "theme": "gruvbox.sublime-theme",
 }

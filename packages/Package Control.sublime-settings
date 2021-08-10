@@ -5,9 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"gruvbox",
 		"Package Control",
+		// "Theme - Monokai Pro",
 		"Swift",
-		"Theme - Monokai Pro",
 		"Writer Color Scheme",
 	],
 }
