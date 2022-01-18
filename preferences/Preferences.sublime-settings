@@ -1,20 +1,13 @@
 {
     // Common
-
-    // "color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
+    "color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
+    "theme": "Monokai Pro (Filter Spectrum).sublime-theme",
     "font_size": 13,
-    "ignored_packages":
-    [
-        "Vintage",
-    ],
-    // "theme": "Monokai Pro (Filter Spectrum).sublime-theme",
     "auto_complete": true,
     "spell_check":true,
     "translate_tabs_to_spaces": true,
     "block_caret": true,
-
     // Exclude
-
     "folder_exclude_patterns":
     [
         "_site",
@@ -24,25 +17,10 @@
     [
         "*.DS_Store",
     ],
-
-    // Writing
-
-    // "draw_centered": true,
-    // "word_wrap": true,
-    // "wrap_width": 80,
-    // "line_padding_bottom": 3,
-    // "line_padding_top": 3,
-    // "gutter": false,
-
     // Misc
-
-    // "dark_theme": "Default Dark.sublime-theme",
-    // "light_theme": "Adaptive.sublime-theme",
-    "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
-    "theme": "gruvbox.sublime-theme",
     "added_words":
     [
-		"initializer",
+        "initializer",
         "archiver",
     ],
 }

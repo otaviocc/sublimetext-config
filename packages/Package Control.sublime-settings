@@ -6,12 +6,9 @@
 	"installed_packages":
 	[
 		"fish",
-		"gruvbox",
-		// "Theme - Monokai Pro",
-		"Nord",
 		"Package Control",
 		"Pretty JSON",
 		"Swift",
-		"Writer Color Scheme",
+		"Theme - Monokai Pro",
 	],
 }
